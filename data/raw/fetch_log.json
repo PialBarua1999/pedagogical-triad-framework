@@ -1,0 +1,10 @@
+{
+  "records": 147,
+  "failures": [],
+  "indicators": {
+    "SE.SEC.ENRR": "Secondary gross enrolment (%)",
+    "SE.SEC.TCHR": "Secondary teachers (number)",
+    "SE.SEC.TCHR.FE.ZS": "Female secondary teachers (%)",
+    "SE.SEC.ENRL": "Secondary pupils (number)"
+  }
+}

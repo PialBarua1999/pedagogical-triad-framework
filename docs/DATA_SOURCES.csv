@@ -1,0 +1,20 @@
+institution,resource,official_url,role,availability_status,ingestion,limitations
+BANBEIS,Bangladesh Education Statistics,https://banbeis.gov.bd/,Bangladesh secondary context,verified_catalog,manual_review,Check edition and disaggregation before use
+BANBEIS,ICT training evaluation,https://banbeis.gov.bd/pages/static-pages/691997bc933eb65569dde9ff,teacher ICT policy evidence,verified_catalog,manual_review,Not teacher-level microdata automatically
+Ministry of Education,Secondary and Higher Education Division,https://shed.gov.bd/,policy context,source_directory,manual_review,Not a measured construct
+NAEM,National Academy for Educational Management,https://naem.gov.bd/,training and pedagogy,source_directory,manual_review,Check document permissions
+NCTB,National Curriculum and Textbook Board,https://nctb.gov.bd/,curriculum philosophy,source_directory,manual_review,Policy text not teacher survey
+Dhaka University IER,Institute of Education and Research,https://ier.du.ac.bd/,research literature,source_directory,manual_review,Publications require bibliographic verification
+BRAC IED,BRAC Institute of Educational Development,https://bracied.com/,research literature,source_directory,manual_review,Check study populations
+BOU,School of Education,https://www.bou.ac.bd/,teacher education,source_directory,manual_review,Not a secondary-school data feed
+BBS,Bangladesh Bureau of Statistics,https://bbs.gov.bd/,household and socioeconomic context,source_directory,manual_review,Geographic join constraints
+UGC,University Grants Commission,https://ugc.gov.bd/,tertiary teacher education context,source_directory,manual_review,Not secondary teacher microdata
+DPE,National Student Assessment,https://nsa.ipemis.dpe.gov.bd/,primary equity comparator,verified_catalog,manual_review,Primary grades only
+World Bank,WDI education indicators,https://api.worldbank.org/v2/,country-year trends,verified_api,automatic,Country-year aggregates not teacher responses
+UNESCO UIS,UIS Data Browser,https://databrowser.uis.unesco.org/,official education metadata,verified_catalog,manual_review,Check latest metadata
+OECD,OECD Education Data,https://www.oecd.org/en/topics/education.html,international frameworks and comparison,source_directory,manual_review,Coverage and comparability vary
+Kaggle,Dataset discovery,https://www.kaggle.com/datasets,discovery_only,unverified,manual_review,Original provenance and licenses needed
+UCI,Machine Learning Repository,https://archive.ics.uci.edu/,discovery_only,unverified,manual_review,Most datasets not Bangladesh teacher samples
+Google Dataset Search,Dataset discovery,https://datasetsearch.research.google.com/,discovery_only,unverified,manual_review,Search engine not dataset owner
+UNICEF,Education Bangladesh,https://www.unicef.org/bangladesh/en/education,child rights equity context,source_directory,manual_review,Check cited reports
+BRAC,Education Programme,https://www.brac.net/,NGO program evidence,source_directory,manual_review,Impact claims require design review

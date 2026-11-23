@@ -1,0 +1,151 @@
+{
+  "data_status": "synthetic",
+  "n": 120,
+  "disclaimer": "Descriptive associations only; not causal evidence, nationally representative estimates, or validated psychological diagnosis.",
+  "scales": {
+    "philosophy": {
+      "mean": 3.342,
+      "std_dev": 0.897,
+      "cronbach_alpha": 0.821
+    },
+    "digital_literacy": {
+      "mean": 3.2,
+      "std_dev": 0.842,
+      "cronbach_alpha": 0.789
+    },
+    "equity": {
+      "mean": 3.39,
+      "std_dev": 0.782,
+      "cronbach_alpha": 0.774
+    }
+  },
+  "correlations": {
+    "philosophy__digital_literacy": -0.114,
+    "philosophy__equity": 0.015,
+    "digital_literacy__equity": 0.02
+  },
+  "subgroups": {
+    "division": {
+      "Barishal": {
+        "n": 15,
+        "mean_scores": {
+          "philosophy": 3.15,
+          "digital_literacy": 3.267,
+          "equity": 3.383
+        }
+      },
+      "Chattogram": {
+        "n": 12,
+        "mean_scores": {
+          "philosophy": 3.708,
+          "digital_literacy": 2.917,
+          "equity": 3.042
+        }
+      },
+      "Dhaka": {
+        "n": 17,
+        "mean_scores": {
+          "philosophy": 3.574,
+          "digital_literacy": 3.162,
+          "equity": 3.515
+        }
+      },
+      "Khulna": {
+        "n": 20,
+        "mean_scores": {
+          "philosophy": 3.263,
+          "digital_literacy": 3.263,
+          "equity": 3.337
+        }
+      },
+      "Mymensingh": {
+        "n": 14,
+        "mean_scores": {
+          "philosophy": 3.411,
+          "digital_literacy": 3.5,
+          "equity": 3.429
+        }
+      },
+      "Rajshahi": {
+        "n": 16,
+        "mean_scores": {
+          "philosophy": 3.375,
+          "digital_literacy": 3.078,
+          "equity": 3.453
+        }
+      },
+      "Rangpur": {
+        "n": 9,
+        "mean_scores": {
+          "philosophy": 3.028,
+          "digital_literacy": 3.028,
+          "equity": 3.139
+        }
+      },
+      "Sylhet": {
+        "n": 17,
+        "mean_scores": {
+          "philosophy": 3.191,
+          "digital_literacy": 3.265,
+          "equity": 3.618
+        }
+      }
+    },
+    "setting": {
+      "rural": {
+        "n": 67,
+        "mean_scores": {
+          "philosophy": 3.328,
+          "digital_literacy": 3.183,
+          "equity": 3.392
+        }
+      },
+      "urban": {
+        "n": 53,
+        "mean_scores": {
+          "philosophy": 3.358,
+          "digital_literacy": 3.222,
+          "equity": 3.387
+        }
+      }
+    },
+    "school_type": {
+      "government": {
+        "n": 59,
+        "mean_scores": {
+          "philosophy": 3.381,
+          "digital_literacy": 3.216,
+          "equity": 3.432
+        }
+      },
+      "non-government": {
+        "n": 61,
+        "mean_scores": {
+          "philosophy": 3.303,
+          "digital_literacy": 3.184,
+          "equity": 3.348
+        }
+      }
+    }
+  },
+  "coverage": {
+    "division": {
+      "Barishal": 15,
+      "Chattogram": 12,
+      "Dhaka": 17,
+      "Khulna": 20,
+      "Mymensingh": 14,
+      "Rajshahi": 16,
+      "Rangpur": 9,
+      "Sylhet": 17
+    },
+    "setting": {
+      "rural": 67,
+      "urban": 53
+    },
+    "school_type": {
+      "government": 59,
+      "non-government": 61
+    }
+  }
+}

@@ -1,0 +1,148 @@
+indicator_code,indicator,country,year,value,source_url,retrieved_utc
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2024,64.2997191043961,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106176+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2023,65.9856598598849,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106203+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2022,67.0384586440383,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106212+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2021,66.8282318620991,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106219+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2020,66.4329548486639,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106225+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2019,65.1185413488915,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106231+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2018,65.2714888764112,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106237+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2017,62.3408639225315,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106243+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2016,64.1664546117285,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106248+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2015,59.4217414855957,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106254+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2013,55.6214332189314,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106260+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2012,51.6718482971191,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106265+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2011,49.7515496494472,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106270+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2010,49.5031106793162,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106276+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2009,48.1255798339844,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106281+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2008,44.5729598999023,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106286+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2007,46.4658813476562,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106296+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2006,45.7007904052734,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106302+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2005,45.1695098876953,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106307+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2004,46.3084297180176,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106312+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2003,49.5259017944336,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106322+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2002,49.6199493408203,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106327+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2001,48.4609718322754,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106332+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,2000,46.7210006713867,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106338+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1999,45.0674591064453,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106343+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1998,41.9298782348633,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106349+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1990,19.8893508911133,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106355+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1989,19.3137493133545,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106360+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1988,19.4372291564941,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106366+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1987,19.5772895812988,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106372+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1986,19.3086490631104,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106377+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1985,19.8446998596191,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106383+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1984,20.423620223999,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106388+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1983,20.1548004150391,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106394+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1981,16.7868995666504,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106400+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1980,18.8754196166992,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106408+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1979,16.9423198699951,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106413+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1977,16.6743297576904,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106422+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1976,16.5570602416992,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106427+00:00
+SE.SEC.ENRR,Secondary gross enrolment (%),Bangladesh,1973,18.770450592041,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json&per_page=2000,2026-11-23T17:54:05.106433+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2024,571690,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632441+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2023,546754,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632469+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2022,554915,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632477+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2021,550527,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632483+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2020,486733,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632490+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2018,452193,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632496+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2017,450665.818182,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632502+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2016,436223.974349,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632507+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2013,378209,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632513+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2012,378049,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632518+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2011,376914,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632524+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2010,400052,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632529+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2009,387273,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632534+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2008,370800,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632540+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2007,413746,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632545+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2006,409262,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632550+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2005,422578,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632555+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2004,378276,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632560+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2003,355594,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632566+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2002,320779,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632571+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2001,285109,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632576+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,2000,268774,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632581+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1999,264945,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632586+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1998,251522,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632592+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1990,130949,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632597+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1989,130394,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632603+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1988,124760,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632608+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1987,112519,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632613+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1986,108508,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632618+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1985,112700,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632623+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1983,113950,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632628+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1980,111927,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632634+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1979,105182,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632639+00:00
+SE.SEC.TCHR,Secondary teachers (number),Bangladesh,1973,94132,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR?format=json&per_page=2000,2026-11-23T17:54:05.632644+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2024,28.6811033951967,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105593+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2023,27.3195989421202,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105620+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2022,26.9408828379121,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105632+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2021,20.9328516130907,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105646+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2020,26.1913615883862,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105655+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2018,22.4116706848144,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105664+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2017,22.0105646144081,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105672+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2016,22.378544875642,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105679+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2013,20.799081989059,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105686+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2012,20.8039169525644,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105694+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2011,21.5407228174066,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105700+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2010,19.5842040534731,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105707+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2009,19.9505290985107,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105715+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2008,19.5345191955566,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105722+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2007,19.7672004699707,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105729+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2006,19.5598392486572,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105736+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2005,17.229959487915,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105743+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2004,18.0889091491699,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105750+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2003,16.0042095184326,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105757+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2002,14.4507598876953,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105766+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2001,14.6487798690796,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105773+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,2000,13.5232601165772,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105780+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1999,13.3703203201294,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105787+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1998,12.6378602981567,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105794+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1990,9.55105018615723,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105802+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1989,9.52651023864746,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105809+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1988,9.68338966369629,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105815+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1987,9.98054027557373,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105822+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1986,9.56795978546143,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105829+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1985,8.49600982666016,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105836+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1980,6.69096994400024,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105843+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1979,6.58762979507446,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105851+00:00
+SE.SEC.TCHR.FE.ZS,Female secondary teachers (%),Bangladesh,1973,9.85849952697754,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.TCHR.FE.ZS?format=json&per_page=2000,2026-11-23T17:54:06.105858+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2024,15067521,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551887+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2023,15661732,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551926+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2022,16070344,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551942+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2021,16022928,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551951+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2020,15954852.000002,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551959+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2019,15710974,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551967+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2018,15869820,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551975+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2017,15314757,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551982+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2016,15787818,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551989+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2015,14566771.999999,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.551997+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2013,13314077.996185,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552005+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2012,12187154,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552020+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2011,11542964,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552029+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2010,11334055,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552037+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2009,10907065,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552044+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2008,10036889,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552064+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2007,10444714,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552131+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2006,10250862,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552143+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2005,10109395,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552151+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2004,10354760,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552159+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2003,11051234,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552166+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2002,11024326,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552174+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2001,10690742,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552193+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,2000,10329065,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552209+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1999,9912318,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552217+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1998,9133579,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552224+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1990,3592995,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552241+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1989,3406520,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552252+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1988,3340120,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552260+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1987,3272858,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552268+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1986,3136454,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552275+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1985,3125219,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552285+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1984,3111267,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552306+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1983,2959437,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552314+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1981,2407888,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552321+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1980,2659208,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552329+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1979,2349920,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552336+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1977,2238186,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552343+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1976,2183413,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552350+00:00
+SE.SEC.ENRL,Secondary pupils (number),Bangladesh,1973,2265469,https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRL?format=json&per_page=2000,2026-11-23T17:54:06.552360+00:00
