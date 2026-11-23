@@ -1,0 +1,115 @@
+{
+  "source": "data\\raw\\worldbank_bgd_secondary.csv",
+  "rows": 147,
+  "valid_numeric_rows": 147,
+  "missing_cell_counts": {},
+  "invalid_rows": [],
+  "duplicate_indicator_country_year": [],
+  "countries": {
+    "Bangladesh": 147
+  },
+  "indicators": {
+    "SE.SEC.ENRL": {
+      "name": "Secondary pupils (number)",
+      "records": 40,
+      "start_year": 1973,
+      "end_year": 2024,
+      "years_missing_within_range": [
+        1974,
+        1975,
+        1978,
+        1982,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        2014
+      ],
+      "minimum_value": 2183413.0,
+      "maximum_value": 16070344.0
+    },
+    "SE.SEC.ENRR": {
+      "name": "Secondary gross enrolment (%)",
+      "records": 40,
+      "start_year": 1973,
+      "end_year": 2024,
+      "years_missing_within_range": [
+        1974,
+        1975,
+        1978,
+        1982,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        2014
+      ],
+      "minimum_value": 16.5570602416992,
+      "maximum_value": 67.0384586440383
+    },
+    "SE.SEC.TCHR": {
+      "name": "Secondary teachers (number)",
+      "records": 34,
+      "start_year": 1973,
+      "end_year": 2024,
+      "years_missing_within_range": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1981,
+        1982,
+        1984,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        2014,
+        2015,
+        2019
+      ],
+      "minimum_value": 94132.0,
+      "maximum_value": 571690.0
+    },
+    "SE.SEC.TCHR.FE.ZS": {
+      "name": "Female secondary teachers (%)",
+      "records": 33,
+      "start_year": 1973,
+      "end_year": 2024,
+      "years_missing_within_range": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1981,
+        1982,
+        1983,
+        1984,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        2014,
+        2015,
+        2019
+      ],
+      "minimum_value": 6.58762979507446,
+      "maximum_value": 28.6811033951967
+    }
+  },
+  "interpretation_note": "Country-level aggregates cannot validate teacher-level psychological constructs or causal effects."
+}

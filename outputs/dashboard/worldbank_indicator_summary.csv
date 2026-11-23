@@ -1,0 +1,5 @@
+indicator_code,indicator,observations,first_year,first_value,last_year,last_value,change,missing_years
+SE.SEC.ENRR,Gross secondary enrolment,40,1973,18.770450592041,2024,64.2997191043961,45.5292685123551,12
+SE.SEC.TCHR,Secondary teachers,34,1973,94132.0,2024,571690.0,477558.0,18
+SE.SEC.TCHR.FE.ZS,Female secondary teachers,33,1973,9.85849952697754,2024,28.6811033951967,18.82260386821916,19
+SE.SEC.ENRL,Secondary pupils,40,1973,2265469.0,2024,15067521.0,12802052.0,12

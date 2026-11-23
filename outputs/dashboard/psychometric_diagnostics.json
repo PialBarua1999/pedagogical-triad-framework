@@ -1,0 +1,153 @@
+{
+  "dataset_status": "synthetic",
+  "n": 120,
+  "item_scale": "Ordinal agreement 1-5; complete cases only",
+  "descriptive_reliability": {
+    "ph": {
+      "items": [
+        "ph1",
+        "ph2",
+        "ph3",
+        "ph4"
+      ],
+      "mean_of_person_means": 3.34167,
+      "sd_of_person_means": 0.89697,
+      "cronbach_alpha": 0.82148,
+      "omega_total_one_factor_approx": 0.26178,
+      "corrected_item_total_correlations": {
+        "ph1": 0.60736,
+        "ph2": 0.70939,
+        "ph3": 0.61602,
+        "ph4": 0.65396
+      },
+      "constant_items": []
+    },
+    "dl": {
+      "items": [
+        "dl1",
+        "dl2",
+        "dl3",
+        "dl4"
+      ],
+      "mean_of_person_means": 3.2,
+      "sd_of_person_means": 0.84179,
+      "cronbach_alpha": 0.7888,
+      "omega_total_one_factor_approx": 0.04038,
+      "corrected_item_total_correlations": {
+        "dl1": 0.61949,
+        "dl2": 0.54049,
+        "dl3": 0.58329,
+        "dl4": 0.64871
+      },
+      "constant_items": []
+    },
+    "eq": {
+      "items": [
+        "eq1",
+        "eq2",
+        "eq3",
+        "eq4"
+      ],
+      "mean_of_person_means": 3.38958,
+      "sd_of_person_means": 0.78175,
+      "cronbach_alpha": 0.77444,
+      "omega_total_one_factor_approx": 0.20583,
+      "corrected_item_total_correlations": {
+        "eq1": 0.52447,
+        "eq2": 0.58925,
+        "eq3": 0.6203,
+        "eq4": 0.58532
+      },
+      "constant_items": []
+    }
+  },
+  "exploratory_construct_relationships": {
+    "ph_dl": {
+      "scale_mean_pearson_r": -0.11352,
+      "htmt_exploratory": 0.15722
+    },
+    "ph_eq": {
+      "scale_mean_pearson_r": 0.01456,
+      "htmt_exploratory": 0.07198
+    },
+    "dl_eq": {
+      "scale_mean_pearson_r": 0.02027,
+      "htmt_exploratory": 0.17575
+    }
+  },
+  "exploratory_factor_analysis": {
+    "performed": true,
+    "method": "Exploratory Pearson-correlation principal-axis factoring with orthogonal varimax; NOT polychoric EFA or CFA",
+    "factor_count": 3,
+    "loadings": {
+      "ph1": [
+        1.0145,
+        0.09632,
+        0.33262
+      ],
+      "ph2": [
+        0.27809,
+        0.05249,
+        0.05319
+      ],
+      "ph3": [
+        0.31895,
+        0.05362,
+        0.07739
+      ],
+      "ph4": [
+        -1.00991,
+        0.0919,
+        0.51006
+      ],
+      "dl1": [
+        -0.16016,
+        0.01613,
+        -0.08911
+      ],
+      "dl2": [
+        -0.1534,
+        -0.03026,
+        0.46336
+      ],
+      "dl3": [
+        -0.05494,
+        0.00354,
+        1.04432
+      ],
+      "dl4": [
+        0.12049,
+        -0.1104,
+        0.1793
+      ],
+      "eq1": [
+        -0.07852,
+        -0.03479,
+        -0.39409
+      ],
+      "eq2": [
+        0.02939,
+        0.48473,
+        0.0912
+      ],
+      "eq3": [
+        0.0021,
+        1.2595,
+        0.00358
+      ],
+      "eq4": [
+        0.0331,
+        -0.19487,
+        -0.14565
+      ]
+    },
+    "limitations": "No model-fit test, no uncertainty intervals, no invariance analysis."
+  },
+  "validity_decision": "NOT VALIDATED — evidence requires content/response-process review, independent field data, ordinal EFA and confirmatory testing.",
+  "warnings": [
+    "SYNTHETIC DEMONSTRATION ONLY: no empirical reliability, validity or population claims.",
+    "ph: alpha and approximate omega disagree strongly; inspect factor-model fit and item structure before interpreting reliability.",
+    "dl: alpha and approximate omega disagree strongly; inspect factor-model fit and item structure before interpreting reliability.",
+    "eq: alpha and approximate omega disagree strongly; inspect factor-model fit and item structure before interpreting reliability."
+  ]
+}

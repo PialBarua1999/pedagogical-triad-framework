@@ -1,0 +1,61 @@
+{
+  "generated_utc": "2026-11-23T19:45:11.037063+00:00",
+  "dashboard_status": "RESEARCH PROTOTYPE — NOT VALIDATED",
+  "worldbank": {
+    "source": "World Bank API country BGD; source URLs in raw CSV",
+    "records": 147,
+    "indicators": [
+      {
+        "indicator_code": "SE.SEC.ENRR",
+        "indicator": "Gross secondary enrolment",
+        "observations": 40,
+        "first_year": 1973,
+        "first_value": 18.770450592041,
+        "last_year": 2024,
+        "last_value": 64.2997191043961,
+        "change": 45.5292685123551,
+        "missing_years": 12
+      },
+      {
+        "indicator_code": "SE.SEC.TCHR",
+        "indicator": "Secondary teachers",
+        "observations": 34,
+        "first_year": 1973,
+        "first_value": 94132.0,
+        "last_year": 2024,
+        "last_value": 571690.0,
+        "change": 477558.0,
+        "missing_years": 18
+      },
+      {
+        "indicator_code": "SE.SEC.TCHR.FE.ZS",
+        "indicator": "Female secondary teachers",
+        "observations": 33,
+        "first_year": 1973,
+        "first_value": 9.85849952697754,
+        "last_year": 2024,
+        "last_value": 28.6811033951967,
+        "change": 18.82260386821916,
+        "missing_years": 19
+      },
+      {
+        "indicator_code": "SE.SEC.ENRL",
+        "indicator": "Secondary pupils",
+        "observations": 40,
+        "first_year": 1973,
+        "first_value": 2265469.0,
+        "last_year": 2024,
+        "last_value": 15067521.0,
+        "change": 12802052.0,
+        "missing_years": 12
+      }
+    ]
+  },
+  "teacher_survey": {
+    "dataset_status": "synthetic",
+    "n": 120,
+    "validity_decision": "NOT VALIDATED — evidence requires content/response-process review, independent field data, ordinal EFA and confirmatory testing.",
+    "aggregate_diagnostics_only": true
+  },
+  "separation_note": "No teacher-level survey data or synthetic rows are exported; no dataset is pooled with national aggregates."
+}
