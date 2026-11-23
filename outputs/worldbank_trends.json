@@ -1,0 +1,393 @@
+{
+  "source": "data\\raw\\worldbank_bgd_secondary.csv",
+  "country": "Bangladesh",
+  "method": "Descriptive, available-case analysis; no interpolation, imputation or causal inference",
+  "indicator_trends": {
+    "SE.SEC.ENRR": {
+      "name": "Secondary gross enrolment (%)",
+      "records": 40,
+      "first_observation": {
+        "year": 1973,
+        "value": 18.770450592041
+      },
+      "last_observation": {
+        "year": 2024,
+        "value": 64.2997191043961
+      },
+      "absolute_change": 45.5292685123551,
+      "relative_change_percent": 242.55820758858238,
+      "missing_years": [
+        1974,
+        1975,
+        1978,
+        1982,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        2014
+      ],
+      "minimum": {
+        "year": 1976,
+        "value": 16.5570602416992
+      },
+      "maximum": {
+        "year": 2022,
+        "value": 67.0384586440383
+      }
+    },
+    "SE.SEC.TCHR": {
+      "name": "Secondary teachers (number)",
+      "records": 34,
+      "first_observation": {
+        "year": 1973,
+        "value": 94132.0
+      },
+      "last_observation": {
+        "year": 2024,
+        "value": 571690.0
+      },
+      "absolute_change": 477558.0,
+      "relative_change_percent": 507.32800747885943,
+      "missing_years": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1981,
+        1982,
+        1984,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        2014,
+        2015,
+        2019
+      ],
+      "minimum": {
+        "year": 1973,
+        "value": 94132.0
+      },
+      "maximum": {
+        "year": 2024,
+        "value": 571690.0
+      }
+    },
+    "SE.SEC.TCHR.FE.ZS": {
+      "name": "Female secondary teachers (%)",
+      "records": 33,
+      "first_observation": {
+        "year": 1973,
+        "value": 9.85849952697754
+      },
+      "last_observation": {
+        "year": 2024,
+        "value": 28.6811033951967
+      },
+      "absolute_change": 18.82260386821916,
+      "relative_change_percent": 190.92767430491395,
+      "missing_years": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1981,
+        1982,
+        1983,
+        1984,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        2014,
+        2015,
+        2019
+      ],
+      "minimum": {
+        "year": 1979,
+        "value": 6.58762979507446
+      },
+      "maximum": {
+        "year": 2024,
+        "value": 28.6811033951967
+      }
+    },
+    "SE.SEC.ENRL": {
+      "name": "Secondary pupils (number)",
+      "records": 40,
+      "first_observation": {
+        "year": 1973,
+        "value": 2265469.0
+      },
+      "last_observation": {
+        "year": 2024,
+        "value": 15067521.0
+      },
+      "absolute_change": 12802052.0,
+      "relative_change_percent": 565.0949979893788,
+      "missing_years": [
+        1974,
+        1975,
+        1978,
+        1982,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        2014
+      ],
+      "minimum": {
+        "year": 1976,
+        "value": 2183413.0
+      },
+      "maximum": {
+        "year": 2022,
+        "value": 16070344.0
+      }
+    }
+  },
+  "pupil_teacher_ratio": {
+    "definition": "Secondary pupils divided by secondary teachers in the same reported year; descriptive proxy, not classroom size",
+    "shared_years_count": 34,
+    "first": {
+      "year": 1973,
+      "pupils": 2265469.0,
+      "teachers": 94132.0,
+      "pupils_per_teacher": 24.066937916967664
+    },
+    "last": {
+      "year": 2024,
+      "pupils": 15067521.0,
+      "teachers": 571690.0,
+      "pupils_per_teacher": 26.356103832496633
+    },
+    "observations": [
+      {
+        "year": 1973,
+        "pupils": 2265469.0,
+        "teachers": 94132.0,
+        "pupils_per_teacher": 24.066937916967664
+      },
+      {
+        "year": 1979,
+        "pupils": 2349920.0,
+        "teachers": 105182.0,
+        "pupils_per_teacher": 22.341465269722956
+      },
+      {
+        "year": 1980,
+        "pupils": 2659208.0,
+        "teachers": 111927.0,
+        "pupils_per_teacher": 23.758413966245858
+      },
+      {
+        "year": 1983,
+        "pupils": 2959437.0,
+        "teachers": 113950.0,
+        "pupils_per_teacher": 25.971364633611234
+      },
+      {
+        "year": 1985,
+        "pupils": 3125219.0,
+        "teachers": 112700.0,
+        "pupils_per_teacher": 27.730425909494233
+      },
+      {
+        "year": 1986,
+        "pupils": 3136454.0,
+        "teachers": 108508.0,
+        "pupils_per_teacher": 28.90527887344712
+      },
+      {
+        "year": 1987,
+        "pupils": 3272858.0,
+        "teachers": 112519.0,
+        "pupils_per_teacher": 29.08715861321199
+      },
+      {
+        "year": 1988,
+        "pupils": 3340120.0,
+        "teachers": 124760.0,
+        "pupils_per_teacher": 26.77236293683873
+      },
+      {
+        "year": 1989,
+        "pupils": 3406520.0,
+        "teachers": 130394.0,
+        "pupils_per_teacher": 26.124821694249736
+      },
+      {
+        "year": 1990,
+        "pupils": 3592995.0,
+        "teachers": 130949.0,
+        "pupils_per_teacher": 27.438124766130326
+      },
+      {
+        "year": 1998,
+        "pupils": 9133579.0,
+        "teachers": 251522.0,
+        "pupils_per_teacher": 36.313240988859825
+      },
+      {
+        "year": 1999,
+        "pupils": 9912318.0,
+        "teachers": 264945.0,
+        "pupils_per_teacher": 37.41273849289475
+      },
+      {
+        "year": 2000,
+        "pupils": 10329065.0,
+        "teachers": 268774.0,
+        "pupils_per_teacher": 38.4302983175456
+      },
+      {
+        "year": 2001,
+        "pupils": 10690742.0,
+        "teachers": 285109.0,
+        "pupils_per_teacher": 37.49703446751944
+      },
+      {
+        "year": 2002,
+        "pupils": 11024326.0,
+        "teachers": 320779.0,
+        "pupils_per_teacher": 34.367355718422964
+      },
+      {
+        "year": 2003,
+        "pupils": 11051234.0,
+        "teachers": 355594.0,
+        "pupils_per_teacher": 31.078235290809182
+      },
+      {
+        "year": 2004,
+        "pupils": 10354760.0,
+        "teachers": 378276.0,
+        "pupils_per_teacher": 27.37355793124597
+      },
+      {
+        "year": 2005,
+        "pupils": 10109395.0,
+        "teachers": 422578.0,
+        "pupils_per_teacher": 23.923145549460692
+      },
+      {
+        "year": 2006,
+        "pupils": 10250862.0,
+        "teachers": 409262.0,
+        "pupils_per_teacher": 25.047187376301732
+      },
+      {
+        "year": 2007,
+        "pupils": 10444714.0,
+        "teachers": 413746.0,
+        "pupils_per_teacher": 25.24426580559087
+      },
+      {
+        "year": 2008,
+        "pupils": 10036889.0,
+        "teachers": 370800.0,
+        "pupils_per_teacher": 27.068201186623515
+      },
+      {
+        "year": 2009,
+        "pupils": 10907065.0,
+        "teachers": 387273.0,
+        "pupils_per_teacher": 28.16376303021383
+      },
+      {
+        "year": 2010,
+        "pupils": 11334055.0,
+        "teachers": 400052.0,
+        "pupils_per_teacher": 28.33145441092658
+      },
+      {
+        "year": 2011,
+        "pupils": 11542964.0,
+        "teachers": 376914.0,
+        "pupils_per_teacher": 30.624927702340585
+      },
+      {
+        "year": 2012,
+        "pupils": 12187154.0,
+        "teachers": 378049.0,
+        "pupils_per_teacher": 32.23696928175977
+      },
+      {
+        "year": 2013,
+        "pupils": 13314077.996185,
+        "teachers": 378209.0,
+        "pupils_per_teacher": 35.202964488378115
+      },
+      {
+        "year": 2016,
+        "pupils": 15787818.0,
+        "teachers": 436223.974349,
+        "pupils_per_teacher": 36.19199981743551
+      },
+      {
+        "year": 2017,
+        "pupils": 15314757.0,
+        "teachers": 450665.818182,
+        "pupils_per_teacher": 33.982512944470045
+      },
+      {
+        "year": 2018,
+        "pupils": 15869820.0,
+        "teachers": 452193.0,
+        "pupils_per_teacher": 35.09523588379298
+      },
+      {
+        "year": 2020,
+        "pupils": 15954852.000002,
+        "teachers": 486733.0,
+        "pupils_per_teacher": 32.7794745784691
+      },
+      {
+        "year": 2021,
+        "pupils": 16022928.0,
+        "teachers": 550527.0,
+        "pupils_per_teacher": 29.104708760878214
+      },
+      {
+        "year": 2022,
+        "pupils": 16070344.0,
+        "teachers": 554915.0,
+        "pupils_per_teacher": 28.960010091635656
+      },
+      {
+        "year": 2023,
+        "pupils": 15661732.0,
+        "teachers": 546754.0,
+        "pupils_per_teacher": 28.64493355329819
+      },
+      {
+        "year": 2024,
+        "pupils": 15067521.0,
+        "teachers": 571690.0,
+        "pupils_per_teacher": 26.356103832496633
+      }
+    ]
+  },
+  "limitations": [
+    "World Bank national aggregates are not measures of teacher philosophy or digital literacy.",
+    "Indicator changes may reflect coverage, definitions or reporting differences.",
+    "Gross enrolment ratios may exceed 100; do not equate them with net enrolment.",
+    "Missing years are excluded rather than estimated.",
+    "The pupil-teacher ratio is not a measure of class size or teaching quality."
+  ]
+}
