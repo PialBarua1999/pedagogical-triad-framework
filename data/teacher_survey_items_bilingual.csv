@@ -1,0 +1,13 @@
+﻿item_code,construct,english,bangla,facet,response_scale,reverse_scored,status
+ph1,philosophy,I adapt lessons after reflecting on learners’ responses.,শিক্ষার্থীদের প্রতিক্রিয়া বিবেচনা করে আমি পাঠদান পদ্ধতি পরিবর্তন করি।,Reflective teaching,1-5,no,original_draft_unvalidated
+ph2,philosophy,I encourage students to explain their reasoning instead of only memorising answers.,শুধু উত্তর মুখস্থ করার পরিবর্তে আমি শিক্ষার্থীদের যুক্তি ব্যাখ্যা করতে উৎসাহিত করি।,Learner-centered reasoning,1-5,no,original_draft_unvalidated
+ph3,philosophy,I use classroom feedback to reconsider my teaching assumptions.,শ্রেণিকক্ষের প্রতিক্রিয়ার ভিত্তিতে আমি নিজের শিক্ষাদান-সংক্রান্ত ধারণা পুনর্বিবেচনা করি।,Critical reflection,1-5,no,original_draft_unvalidated
+ph4,philosophy,I provide opportunities for students to question and discuss ideas respectfully.,শিক্ষার্থীদের সম্মানজনকভাবে প্রশ্ন ও মতবিনিময়ের সুযোগ দিই।,Dialogic pedagogy,1-5,no,original_draft_unvalidated
+dl1,digital_literacy,"I select digital resources based on lesson objectives, not novelty alone.","শুধু নতুনত্বের কারণে নয়, পাঠের লক্ষ্য বিবেচনায় ডিজিটাল উপকরণ নির্বাচন করি।",Pedagogical selection,1-5,no,original_draft_unvalidated
+dl2,digital_literacy,I check the credibility of online teaching materials before using them.,ব্যবহারের আগে অনলাইন শিক্ষাসামগ্রীর নির্ভরযোগ্যতা যাচাই করি।,Information evaluation,1-5,no,original_draft_unvalidated
+dl3,digital_literacy,I plan non-digital alternatives when students cannot access technology.,শিক্ষার্থীদের প্রযুক্তি ব্যবহারের সুযোগ না থাকলে বিকল্প অফলাইন উপায় পরিকল্পনা করি।,Access-aware planning,1-5,no,original_draft_unvalidated
+dl4,digital_literacy,I explain basic digital privacy and safety when assigning online activities.,অনলাইন কার্যক্রম দেওয়ার সময় ডিজিটাল গোপনীয়তা ও নিরাপত্তার মৌলিক বিষয় ব্যাখ্যা করি।,Digital safety,1-5,no,original_draft_unvalidated
+eq1,equity,I offer more than one way for students to participate in learning.,শিক্ষার্থীদের শেখার কার্যক্রমে অংশগ্রহণের একাধিক উপায় দিই।,Participation access,1-5,no,original_draft_unvalidated
+eq2,equity,I adapt learning activities for students who need additional support.,অতিরিক্ত সহায়তা প্রয়োজন এমন শিক্ষার্থীদের জন্য শেখার কার্যক্রম উপযোগী করি।,Differentiation,1-5,no,original_draft_unvalidated
+eq3,equity,I monitor whether girls and boys have comparable opportunities to speak in class.,শ্রেণিকক্ষে মেয়েশিশু ও ছেলেশিশুদের কথা বলার তুলনীয় সুযোগ আছে কি না লক্ষ্য রাখি।,Gender participation,1-5,no,original_draft_unvalidated
+eq4,equity,I consider resource or connectivity constraints when planning homework.,বাড়ির কাজ পরিকল্পনায় শিক্ষার্থীদের উপকরণ ও ইন্টারনেট-সংক্রান্ত সীমাবদ্ধতা বিবেচনা করি।,Resource equity,1-5,no,original_draft_unvalidated

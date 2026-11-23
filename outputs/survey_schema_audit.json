@@ -1,0 +1,10 @@
+{
+  "file": "synthetic_teacher_survey.csv",
+  "rows_reviewed": 120,
+  "status_counts": {
+    "synthetic": 120
+  },
+  "schema_valid": true,
+  "errors": [],
+  "interpretation": "Structure only. Does not establish ethics, sampling validity or psychometric validity."
+}
